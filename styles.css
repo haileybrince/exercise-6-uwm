@@ -1,23 +1,28 @@
 .list{
-    background-color: aqua;
+    background-color: rgb(252, 234, 132);
 }
 
 .main-background{
-    background-color: azure;
+    background-color: rgb(185, 247, 190);
 }
 
 .academics{
-    background-color: aqua;
+    background-color: rgb(246, 206, 157);
 }
 
 .research{
-    background-color: antiquewhite;
+    background-color: rgb(246, 206, 157);
 }
 
 .entrepreneurship{
-    background-color: bisque;
+    background-color: rgb(246, 206, 157);
 }
 
 .links{
-    background-color: azure;
+    background-color: rgb(252, 234, 132);
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    margin: 1;
 }
